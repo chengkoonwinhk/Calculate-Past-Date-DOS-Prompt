@@ -1,6 +1,6 @@
 # Calculate-Past-Date-DOS-Prompt
 Calculate Pass Date for batch file
 
-x is the number of days
+x is the number of days before
 
-Usage: passday x
+Usage: Caldate [x]
